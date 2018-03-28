@@ -1,12 +1,4 @@
 #!/usr/bin/python
-"""
-agent.py: version 1.0
-
-DIYJAC
-
-History:
-2017/06/28: Update with signatures as requested by Udacity
-"""
 
 import random
 import math
